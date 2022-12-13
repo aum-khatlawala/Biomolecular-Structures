@@ -1,0 +1,1 @@
+The free volume of the protein 1a6g.pdb can be computed using the resource https://gmlab.bio.rpi.edu/ and the value is as follows: 4923.061 A^3 (cubic angstrom)
